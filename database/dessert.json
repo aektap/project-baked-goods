@@ -1,0 +1,44 @@
+[
+
+{
+  "product_id": 1,
+  "name": "Cake Pops",
+  "flavour": "Chocolate",
+  "quantity_set": 24,
+  "price": 18.99
+},
+
+{
+  "product_id": 2,
+  "name": "Cake",
+  "flavour": "Vanilla",
+  "quantity_set": 1,
+  "price": 27.99
+},
+
+{
+  "product_id": 3,
+  "name": "Cheese Cake",
+  "flavour": "Carrot",
+  "quantity_set": 1,
+  "price": 24
+},
+
+{
+  "product_id": 4,
+  "name": "Cookies",
+  "flavour": "White Chocolate Macademia",
+  "quantity_set": 24,
+  "price": 23.99
+},
+
+{
+  "product_id": 5,
+  "name": "Cupcakes",
+  "flavour": "Red Velvet",
+  "quantity_set": 24,
+  "price": 25
+}
+
+]
+
